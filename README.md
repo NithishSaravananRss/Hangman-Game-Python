@@ -20,6 +20,7 @@ Tech Used:
       No external libraries needed (only random module).
 
 ⚙️ Installation & Running
+     
       1. Clone the repository
 
         git clone https://github.com/NithishSaravananRss/hangman-game-python.git
